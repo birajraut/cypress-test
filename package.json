@@ -1,0 +1,12 @@
+{
+  "name": "cypressTest",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@types/axios": "^0.14.0",
+    "cypress": "*",
+    "typescript": "*"
+  },
+  "dependencies": {
+    "axios": "^1.7.7"
+  }
+}
